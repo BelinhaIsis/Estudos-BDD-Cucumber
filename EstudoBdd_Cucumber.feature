@@ -8,7 +8,7 @@ Cenario:
 	E informo o cliente
 	E informo o status do pedido finalizado
 	E informo o endereço
-	E informo o barro
+	E digitar o barro
 	E informo o cep
 	E informo a cidade
 	E escolho o estado
