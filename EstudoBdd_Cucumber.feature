@@ -1,6 +1,6 @@
 Feature: Criar novo pedido
 
-Brackground: está cadastrada e logado no sistema.
+Brackground: está cadastrado e logado no sistema.
 
 Cenario:
 	Dado que estou em novo pedido
