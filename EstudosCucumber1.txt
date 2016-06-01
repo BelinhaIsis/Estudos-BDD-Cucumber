@@ -1,0 +1,19 @@
+Facture: Adcionar novo valor de frete
+
+Background : Está logado no sistema.
+
+Cenario:
+    Dado que estou em valor do frete
+    E seleciono novo valor do frete
+    E escolho o estado
+    E informo o valor do frete
+    Quando gravo o cadastro
+    Então apresenta a mensagem Sucesso ao inserir o valor do frete
+
+Cenario:
+    Dado que estou em valor do frete
+    E seleciono novo valor do frete
+    E seleciono o estado
+    E informo o valor do frete
+    Quando cancelo o cadastro
+    Então o cadastro não é salvo
